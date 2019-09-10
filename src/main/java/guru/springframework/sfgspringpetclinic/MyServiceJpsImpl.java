@@ -1,5 +1,5 @@
 package guru.springframework.sfgspringpetclinic;
 
-public interface MyService {
+public class MyServiceJpsImpl implements MyService{
 
 }

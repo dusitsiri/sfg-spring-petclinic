@@ -1,9 +1,6 @@
 guru\springframework\sfgspringpetclinic\model\Vet.class
 guru\springframework\sfgspringpetclinic\model\Owner.class
-META-INF\MANIFEST.MF
+guru\springframework\sfgspringpetclinic\model\PetType.class
 guru\springframework\sfgspringpetclinic\model\Person.class
 org\pet\clinic\data\App.class
 guru\springframework\sfgspringpetclinic\model\Pet.class
-META-INF\maven\guru.springframework\pet-clinic-data\pom.properties
-guru\springframework\sfgspringpetclinic\model\PetType.class
-META-INF\maven\guru.springframework\pet-clinic-data\pom.xml

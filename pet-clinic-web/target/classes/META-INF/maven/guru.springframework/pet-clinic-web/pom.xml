@@ -5,11 +5,7 @@
 	<parent>
 		<groupId>guru.springframework</groupId>
 		<artifactId>sfg-spring-petclinic</artifactId>
-<<<<<<< HEAD
-		<version>0.0.1</version>
-=======
 		<version>0.0.2-SNAPSHOT</version>
->>>>>>> master
 	</parent>
 
 	<artifactId>pet-clinic-web</artifactId>
@@ -18,11 +14,7 @@
 		<dependency>
 			<groupId>guru.springframework</groupId>
 			<artifactId>pet-clinic-data</artifactId>
-<<<<<<< HEAD
-			<version>0.0.1</version>
-=======
 			<version>0.0.2-SNAPSHOT</version>
->>>>>>> master
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

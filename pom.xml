@@ -48,7 +48,7 @@
 
 	<scm>
 		<url>https://github.com/dusitsiri/sfg-spring-petclinic.git</url>
-		<connection>scm:git:ssh://git@github.com:dusitsiri/sfg-spring-petclinic.git</connection>
+		<connection>scm:git:git@github.com:dusitsiri/sfg-spring-petclinic.git</connection>
 		<developerConnection>scm:git:git@github.com:dusitsiri/sfg-spring-petclinic.git</developerConnection>
 		<tag>sfg-spring-petclinic-0.0.1</tag>
 	</scm>

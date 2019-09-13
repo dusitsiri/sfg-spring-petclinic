@@ -6,10 +6,14 @@
 		<groupId>guru.springframework</groupId>
 		<artifactId>sfg-spring-petclinic</artifactId>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<version>0.0.1</version>
 =======
 		<version>0.0.2-SNAPSHOT</version>
 >>>>>>> master
+=======
+		<version>0.0.3-SNAPSHOT</version>
+>>>>>>> e3650b14fc0999689acf72260cf50b1806b3540c
 	</parent>
 
 	<artifactId>pet-clinic-web</artifactId>
@@ -19,10 +23,14 @@
 			<groupId>guru.springframework</groupId>
 			<artifactId>pet-clinic-data</artifactId>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<version>0.0.1</version>
 =======
 			<version>0.0.2-SNAPSHOT</version>
 >>>>>>> master
+=======
+			<version>0.0.3-SNAPSHOT</version>
+>>>>>>> e3650b14fc0999689acf72260cf50b1806b3540c
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>

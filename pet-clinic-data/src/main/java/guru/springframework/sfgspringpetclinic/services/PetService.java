@@ -4,11 +4,6 @@ import java.util.Set;
 
 import guru.springframework.sfgspringpetclinic.model.Pet;
 
-public interface PetService {
+public interface PetService extends CrudService<Pet, Long>{
 
-	Pet findById(Long Id);
-	
-	Pet save(Pet pet);
-	
-	Set<Pet> findAll(); 
 }

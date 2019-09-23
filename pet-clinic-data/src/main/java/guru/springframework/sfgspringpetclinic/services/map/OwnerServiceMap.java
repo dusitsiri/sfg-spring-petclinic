@@ -2,7 +2,6 @@ package guru.springframework.sfgspringpetclinic.services.map;
 
 import java.util.Set;
 
-import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 import guru.springframework.sfgspringpetclinic.model.Owner;

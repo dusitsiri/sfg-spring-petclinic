@@ -4,6 +4,7 @@ guru\springframework\sfgspringpetclinic\services\PetService.class
 guru\springframework\sfgspringpetclinic\model\Pet.class
 guru\springframework\sfgspringpetclinic\services\CrudService.class
 guru\springframework\sfgspringpetclinic\model\BaseEntity.class
+guru\springframework\sfgspringpetclinic\model\Visit.class
 guru\springframework\sfgspringpetclinic\model\Vet.class
 guru\springframework\sfgspringpetclinic\services\map\VetServiceMap.class
 guru\springframework\sfgspringpetclinic\model\Person.class
